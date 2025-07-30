@@ -1,4 +1,4 @@
-I already own an electric guitar, but what if I turned my Acoustic into an electric guitar so I have 2 electric guitars.
+I already own an electric guitar, but what if I turned my Acoustic into an electric guitar so I have 2 electric guitars. Also a passive buzzer is used to play melodies or rhythmic signals that are programmed into the Raspberry Pi Pico. The piezo disc then picks up these sounds and sends them to the amplifier, enabling the system to work as an inbuilt melody generator or programmed metronome.
 <img width="1042" height="707" alt="image" src="https://github.com/user-attachments/assets/beb4fa82-aba3-4694-89f8-042feefed0a4" />
 
 <img width="683" height="594" alt="image" src="https://github.com/user-attachments/assets/30aedad8-d542-492c-8087-63b86b9a3d46" />
